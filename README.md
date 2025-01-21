@@ -1,3 +1,3 @@
 # codespace-teste
 
-Meu teste utilizando o github codespace
+Minha area para testar trechos de codigo na primeiro acesso ao github codespace
